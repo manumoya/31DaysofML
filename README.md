@@ -1,7 +1,7 @@
 # 31DaysofML (abril 2021)
 ###### Autor: [Manuel Moya - mmoyam@gmail.com]
 
-El objetivo de este trabajo es recopilar en un solo lugar la mini-serie #31DaysofML, cuyo objetivo es crear y compartir  31 posts de Machine Learning. La creadora de esta mini es [Priyanka Vergadia @pvergadia] (https://twitter.com/pvergadia) del equipo de Google.
+El objetivo de este trabajo es recopilar en un solo lugar la mini-serie #31DaysofML, cuyo objetivo es crear y compartir  31 posts de Machine Learning. Su creadora [Priyanka Vergadia @pvergadia](https://twitter.com/pvergadia) pertenece al equipo de Google.
 
 
 ### [Introducción] (https://twitter.com/pvergadia/status/1352315020059676672)
