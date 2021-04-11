@@ -49,26 +49,26 @@ Tip: The best way to learn ML is to pick a problem that you feel excited about &
 
 Discussion: 10 things that can go wrong with #MachineLearning . 
 
-### [Día 11] (https://twitter.com/pvergadia/status/1360272456657694722)
+### [Día 11](https://twitter.com/pvergadia/status/1360272456657694722)
 
 AI vs ML vs DL! How are they different?.
  
-### [Día 12] (https://twitter.com/pvergadia/status/1360709783121260546)
+### [Día 12](https://twitter.com/pvergadia/status/1360709783121260546)
 
 Classification model in less than 5 mins.
 
-### [Día 13] (https://twitter.com/pvergadia/status/1361072734051045379)
+### [Día 13](https://twitter.com/pvergadia/status/1361072734051045379)
 
 How to deal with imbalanced datasets?
 
-### [Día 14] (https://twitter.com/pvergadia/status/1361389833617240065)
+### [Día 14](https://twitter.com/pvergadia/status/1361389833617240065)
 
 How to pick the right GoogleCloud Machine Learning tool for your application?  
 
-### [Día 15] (https://twitter.com/pvergadia/status/1361752205502611457)
+### [Día 15](https://twitter.com/pvergadia/status/1361752205502611457)
 
 Basic Machine Learning terms you will come across as you start your ML journey.
 
-### [Día 16] (https://twitter.com/pvergadia/status/1362069297888169987)
+### [Día 16](https://twitter.com/pvergadia/status/1362069297888169987)
 
 Some use cases of computer vision.
