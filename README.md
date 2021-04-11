@@ -6,7 +6,7 @@ El objetivo de este trabajo es recopilar en un solo lugar la mini-serie #31Dayso
 
 ### [Introducción](https://twitter.com/pvergadia/status/1352315020059676672)
 
-Weklcome to mini-serie
+Welcome to mini-serie
 
 ### [Día 1](https://twitter.com/pvergadia/status/1356663694780887042)
 
